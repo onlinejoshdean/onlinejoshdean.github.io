@@ -13,4 +13,4 @@ This is the blog post test.
 
 > And that is nice.
 
-![me](images/myface.png)
+![me](https://ghcdn.rawgit.org/onlinejoshdean/onlinejoshdean.github.io/master/images/myface.png)
