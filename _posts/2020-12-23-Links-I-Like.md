@@ -1,9 +1,20 @@
 ---
-layout: posts
+layout: post
 title:  Links I like
 categories: Links
 ---
 
 Some content goes here.
 
+> For music production
+
 [ableton.com]
+
+> For learning
+[wikipedia.org]
+
+These both help out a lot.
+
+### Are there more?
+
+Yes there are.
