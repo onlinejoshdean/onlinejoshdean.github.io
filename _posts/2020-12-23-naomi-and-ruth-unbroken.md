@@ -1,9 +1,8 @@
 ---
 published: true
 ---
-## Naomi and Ruth - Unbroken
 
-Consider the book of Ruth
+## Consider the book of Ruth
 
 - Set in the time of the Judges
 - Starts in Israel, moves to Moab, then returns to Israel
