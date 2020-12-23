@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Maomi and Rith - Unbroken
 
@@ -34,4 +34,4 @@ The author of Ruth could see part of God’s purpose for human history being ful
 The author of Ruth was also aware of God’s hand upon the personal circumstances of families and individuals, encouraging them to look back over events and to trace the mysterious outworking of God’s overflowing goodness in their lives. 
 --- 
 
-In personal life and in history God was working out the good purpose, even when God is not nearby, heard out loud, or felt by the people concerned. 
+In personal life and in history God was working out the good purpose, even when God is not nearby, heard out loud, or felt by the people concerned.
