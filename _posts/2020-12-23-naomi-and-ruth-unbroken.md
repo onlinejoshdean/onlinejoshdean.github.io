@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## Maomi and Rith - Unbroken
+## Naomi and Ruth - Unbroken
 
 Consider the book of Ruth
 
