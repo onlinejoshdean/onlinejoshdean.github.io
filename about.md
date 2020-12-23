@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi I'm Josh
+Hi I'm Josh,
 
 I'm trying to learn, be helpful, and be honest.
 
