@@ -2,6 +2,8 @@
 layout: post
 title: You're up and running!
 published: true
+comments: true
+categories: posts
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
@@ -12,12 +14,8 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 ## Hi there everyone
 
-This is the blog post test. 
+This is the blog post test.
 
-It will link to my other stuff. 
+It will link to my other stuff.
 
 > And that is nice.
-
-
-
-
