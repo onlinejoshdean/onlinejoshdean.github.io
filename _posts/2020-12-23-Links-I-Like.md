@@ -2,6 +2,7 @@
 layout: post
 title:  Links I like
 categories: Links
+comments: false
 ---
 
 Some content goes here.
