@@ -32,6 +32,7 @@ Famine is the circumstance that caused an Israelite family to migrate to Moab. F
 The author of Ruth could see part of God’s purpose for human history being fulfilled in David; the Christian reader can fit the part into the whole, for God was executing a plan to redeem humankind through great David’s greater son. 
 
 The author of Ruth was also aware of God’s hand upon the personal circumstances of families and individuals, encouraging them to look back over events and to trace the mysterious outworking of God’s overflowing goodness in their lives. 
+
 --- 
 
 In personal life and in history God was working out the good purpose, even when God is not nearby, heard out loud, or felt by the people concerned.
