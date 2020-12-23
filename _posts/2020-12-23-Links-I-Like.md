@@ -9,7 +9,7 @@ Some content goes here.
 
 > For music production
 
-(https://www.ableton.com)
+[Ableton](https://www.ableton.com)
 
 > For learning
 
