@@ -8,10 +8,11 @@ Some content goes here.
 
 > For music production
 
-[ableton.com]
+(https://www.ableton.com)
 
 > For learning
-[wikipedia.org]
+
+[wikipedia.org](https://www.wikipedia.org)
 
 These both help out a lot.
 
