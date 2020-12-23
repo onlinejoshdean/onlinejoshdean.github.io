@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi I'm Josh
+
+I'm trying to learn, be helpful, and be honest.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm lefthanded
 
 ### Contact me
 
