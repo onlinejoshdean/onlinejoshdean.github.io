@@ -2,8 +2,9 @@
 layout: post
 title: You're up and running!
 published: true
-comments: true
+comments: false
 categories: post
+date: 2020-12-23
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
