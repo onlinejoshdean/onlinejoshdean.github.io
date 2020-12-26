@@ -21,3 +21,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- _posts/next-blog-post.md
