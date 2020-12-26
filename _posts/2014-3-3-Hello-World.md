@@ -18,8 +18,8 @@ I have edited this one.
 
 ![A photo of me](/uploads/profile.jpeg "This is me")
 
-### I took this in Madrid. 
+### I took this in Madrid.
 
-It is alright. 
+It is alright.
 
-> I was on a balcony at the time. 
+> I was on a balcony at the time.
