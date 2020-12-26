@@ -1,10 +1,14 @@
 ---
-tags: []
+tags:
+- " jesus"
+- " gospel"
+- " john"
+- " miracle"
 layout: Post
 title: Next blog post
 comments: true
 categories: ''
-date: 
+date: 2020-12-26 00:00:00 +0000
 
 ---
 ## Wedding at Cana
