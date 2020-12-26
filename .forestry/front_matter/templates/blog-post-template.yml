@@ -1,0 +1,19 @@
+---
+label: Blog Post Template
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: comments
+  label: comments
+- type: text
+  name: categories
+  label: categories
+- type: datetime
+  name: date
+  label: date
