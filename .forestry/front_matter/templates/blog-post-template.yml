@@ -22,5 +22,5 @@ fields:
   name: date
   label: date
 pages:
+- _posts/2021-03-03-ce-questions.md
 - _posts/2021-03-03-hi-ronan.md
-- _posts/ce-questions.md
