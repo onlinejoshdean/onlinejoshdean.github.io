@@ -7,11 +7,12 @@ categories: ''
 date: 2021-03-03 00:00:00 +0000
 
 ---
-1. Could you tell me which EMEIA country was the least complex to introduce Apple Pay into?
-2. How does your team get its direction?
-3. What has WFH made easier for your team? 
-4. Is there a white whale company that you are working on to get Apple Pay live?
+### Just a few
 
-   ![](/uploads/jonas-leupe-0ivop5v4mmu-unsplash.jpg)
+1. ![](/uploads/jonas-leupe-0ivop5v4mmu-unsplash.jpg)
+2. Could you tell me which EMEIA country was the least complex to introduce Apple Pay into?
+3. How does your team get its direction?
+4. What has WFH made easier for your team? 
+5. Is there a white whale company that you are working on to get Apple Pay live?
 
-![](/uploads/1482944662524.gif)
+![](/uploads/thumbs-up-basketball.gif)
