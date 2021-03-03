@@ -14,4 +14,4 @@ I'm lefthanded
 
 ### Contact me
 
-thisisjoshdean@gmail.com
+[thisisjoshdean@gmail.com](mailto:thisisjoshdean@gmail.com)
