@@ -16,4 +16,4 @@ date: 2021-03-03 00:00:00 +0000
 * What has WFH made easier for your team?
 * Is there a white whale company that you are working on to get Apple Pay live?
 
-Click [here to finish]( "Click here to finish")
+## Click [here to finish]( "Click here to finish")
