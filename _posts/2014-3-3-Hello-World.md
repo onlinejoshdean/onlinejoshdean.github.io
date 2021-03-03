@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Photo post test
 comments: false
 categories: post
 date: 2020-12-23
