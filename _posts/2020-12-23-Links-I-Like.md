@@ -19,6 +19,4 @@ These both help out a lot.
 
 ### Are there more?
 
-Yes there are.
-
-Here are some more: [www.logos.com]()
+Maybe one day.
