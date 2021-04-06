@@ -1,19 +1,15 @@
 ---
 tags: []
 layout: post
-title: CE Questions
+title: A couple fun facts
 comments: false
 categories: ''
-date: 2021-03-03 00:00:00 +0000
+date: 2021-03-03T00:00:00.000+00:00
 
 ---
-### Just a few
+### Couple Fun Facts
 
-![](/uploads/jonas-leupe-0ivop5v4mmu-unsplash.jpg)
-
-* Could you tell me which EMEIA country was the least complex to introduce Apple Pay into?
-* How does your team get its direction?
-* What has WFH made easier for your team?
-* Is there a white whale company that you are working on to get Apple Pay live?
+* I moved to Switzerland when I was 7
+* 
 
 ## Click [here to finish](https://onlinejoshdean.github.io/thank-you/ "Click here to finish")
