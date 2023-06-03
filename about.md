@@ -10,8 +10,8 @@ I'm trying to learn, be helpful, and be honest.
 
 ### More Information
 
-I'm lefthanded
+I'm lefthanded, most of the time. 
 
 ### Contact me
 
-[thisisjoshdean@gmail.com](mailto:thisisjoshdean@gmail.com)
+[send me a message](mailto:hello@joshdean.uk)
