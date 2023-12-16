@@ -12,5 +12,6 @@ date: 2021-03-03T00:00:00.000+00:00
 ![](/uploads/img_5570.jpeg)
 
 Fried egg, tomatoes, baked beans, stir-fried mushrooms, spring onion, soy sauce and sesame oil. 
+That is the way to start the day. 
 
 Thanks.
